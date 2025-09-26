@@ -24,7 +24,11 @@
 git clone https://github.com/yourusername/chronodb.git
 cd chronodb
 pip install -r requirements.txt
-# Database-from-Scratch
+
+---
+
+### Basic Usage
+```python
 from chronodb import ChronoDB
 
 # Initialize
