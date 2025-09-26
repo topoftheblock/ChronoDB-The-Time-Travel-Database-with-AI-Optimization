@@ -25,3 +25,17 @@ git clone https://github.com/yourusername/chronodb.git
 cd chronodb
 pip install -r requirements.txt
 # Database-from-Scratch
+from chronodb import ChronoDB
+
+# Initialize
+db = ChronoDB("my_database.db")
+
+# Traditional SQL
+db.execute("INSERT INTO users (id, name, email) VALUES (1, 'Alice', 'alice@email.com')")
+
+# Time-travel query
+result = db.execute("SELECT * FROM users AS OF TIMESTAMP 1635724800 WHERE name = 'Alice'")
+
+# AI health report
+health_report = db.get_health_report()
+print(health_report)
