@@ -21,7 +21,7 @@
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/chronodb.git
+git clone https://github.com/topoftheblock/chronodb-the-time-travel-database-with-ai-optimization.git
 cd chronodb
 pip install -r requirements.txt
 ```
