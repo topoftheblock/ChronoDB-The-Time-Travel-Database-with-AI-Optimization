@@ -3,7 +3,7 @@
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
-**ChronoDB** is a revolutionary database engine that merges traditional SQL with cutting-edge features: **time-travel queries**, **ML-powered optimization**, **blockchain audit trails**, and **real-time streaming**. Built in Python, it’s designed for both education and production.
+**ChronoDB** is a database engine that merges traditional SQL with cutting-edge features: **time-travel queries**, **ML-powered optimization**, **blockchain audit trails**, and **real-time streaming**. Built in Python, it’s designed for both education and production.
 
 ---
 
