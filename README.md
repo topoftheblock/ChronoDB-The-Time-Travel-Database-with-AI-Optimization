@@ -211,36 +211,8 @@ python benchmarks/performance_test.py
 
 ---
 
-## 📊 Project Status
-| **Component**         | Status | Tests | Docs  |
-|-----------------------|--------|-------|-------|
-| Core Storage Engine   | ✅     | 95%   | 📗    |
-| Time-Travel Queries   | ✅     | 90%   | 📗    |
-| ML Optimizer          | ✅     | 85%   | 📘    |
-
----
-
-## 🏆 Showcase for Interviews
-- Database Engineering
-- Machine Learning
-- Blockchain Technology
-- System Design
-
----
-
 ## 📄 License
 MIT License
 
 ---
 
-## 📞 Contact
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@domain.com
-- Twitter: [@chronodb](https://twitter.com/chronodb)
-
----
-**Made with ❤️ and 🚀 by [Your Name]**
-
-# AI health report
-health_report = db.get_health_report()
-print(health_report)
