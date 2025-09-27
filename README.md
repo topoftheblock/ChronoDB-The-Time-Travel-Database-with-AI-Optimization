@@ -181,20 +181,6 @@ features:
 
 ---
 
-## 🧪 Testing & Benchmarks
-```bash
-pytest tests/ -v
-python benchmarks/performance_test.py
-```
-
-| **Query Type**      | ChronoDB | SQLite | Improvement |
-|---------------------|----------|--------|-------------|
-| Simple SELECT       | 1.2ms    | 1.5ms  | 25% faster  |
-| Complex JOIN        | 45ms     | 68ms   | 51% faster  |
-| Time-Travel Query   | 3.1ms    | N/A    | Unique      |
-
----
-
 ## 🔮 Roadmap
 - Distributed ChronoDB
 - ChronoDB Cloud
